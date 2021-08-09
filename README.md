@@ -19,7 +19,7 @@ metrics:
 # Spanish RoBERTa-large trained on BNE finetuned for CAPITEL Named Entity Recognition (NER) dataset.
 RoBERTa-large-bne is a transformer-based masked language model for the Spanish language. It is based on the [RoBERTa](https://arxiv.org/abs/1907.11692) large model and has been pre-trained using the largest Spanish corpus known to date, with a total of 570GB of clean and deduplicated text processed for this work, compiled from the web crawlings performed by the  [National Library of Spain (Biblioteca Nacional de España)](http://www.bne.es/en/Inicio/index.html) from 2009 to 2019.
 
-Original pre-trained model can be found here: https://huggingface.co/BSC-TeMU/roberta-base-bne
+Original pre-trained model can be found here: https://huggingface.co/BSC-TeMU/roberta-large-bne
 
 ## Dataset
 The dataset used is the one from the [CAPITEL competition at IberLEF 2020](https://sites.google.com/view/capitel2020) (sub-task 1).
