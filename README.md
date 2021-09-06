@@ -1,7 +1,7 @@
 ---
 language:
 - es
-license: "cc-by-4.0"
+license: apache-2.0
 tags:
 - "national library of spain"
 - "spanish"
